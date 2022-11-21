@@ -154,7 +154,7 @@ export default function Home({ projects }) {
         </title>
         <meta
           name="description"
-          content="I’m Ellie, a junior Backend Software Engineer with a background in data analytics, process automation and operations management."
+          content="I&apos;m Ellie, a junior Backend Software Engineer with a background in data analytics, process automation and operations management."
         />
       </Head>
       <Container className="mt-9">
@@ -194,13 +194,13 @@ export default function Home({ projects }) {
           <div className="flex flex-col gap-16">
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-              Over the last few years, I’ve built a successful career in tech from the ground up. After a year of relevant experience and self-studying through online courses in Data Science, SQL and Python, I landed the role of Data Analyst for International Growth at ed-tech start-up, Twinkl, where I used data to help guide and grow our international markets. After sparking a passion for coding, I moved into the role of Operations Collective Analyst for 43 departments using data to generate continuous process improvements, and carving my own path by writing lightweight programs to automate large-scale business processes.
+              Over the last few years, I&apos;ve built a successful career in tech from the ground up. After a year of relevant experience and self-studying through online courses in Data Science, SQL and Python, I landed the role of Data Analyst for International Growth at ed-tech start-up, Twinkl, where I used data to help guide and grow our international markets. After sparking a passion for coding, I moved into the role of Operations Collective Analyst for 43 departments using data to generate continuous process improvements, and carving my own path by writing lightweight programs to automate large-scale business processes.
               </p>
               <p>
-              Once I knew my passion lay in programming, I enrolled in a Software Engineering Immersive program where I have since been diving deep into the languages, frameworks, environments, concepts and skills to become a fully-fledged junior software engineer. I hope to now marry the skills I’ve developed in my previous roles and break into the industry with a focus on backend engineering/development.
+              Once I knew my passion lay in programming, I enrolled in a Software Engineering Immersive program where I have since been diving deep into the languages, frameworks, environments, concepts and skills to become a fully-fledged junior software engineer. I hope to now marry the skills I&apos;ve developed in my previous roles and break into the industry with a focus on backend engineering/development.
               </p>
              <p>
-              When I'm not programming, I love to spend my time bouldering and walking in the Peaks, socialising with friends, going to gigs and creating digital art.
+              When I&apos;m not programming, I love to spend my time bouldering and walking in the Peaks, socialising with friends, going to gigs and creating digital art.
              </p>
             </div>
           </div>

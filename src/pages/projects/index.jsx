@@ -22,7 +22,7 @@ function Project({ project }) {
         </Card.Eyebrow>
         <Card.Description>{project.description}</Card.Description>
         <Button className="text-white text-xs font-thin h-6" href={project.deployedLink}>Explore</Button>
-        <Card.Cta><a href={"https://github.com/ellieeadington/"+project.github} target="_blank">Checkout on GitHub</a></Card.Cta>
+        <Card.Cta><a href={"https://github.com/ellieeadington/"+project.github} target="_blank" rel="noreferrer">Checkout on GitHub</a></Card.Cta>
       </Card>
       <Card.Eyebrow
         as="time"

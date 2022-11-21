@@ -9,6 +9,9 @@ const nextConfig = {
   experimental: {
     scrollRestoration: true,
   },
+  images: {
+    unoptimized: true
+}
 }
 
 const withMDX = nextMDX({
@@ -18,5 +21,6 @@ const withMDX = nextMDX({
     rehypePlugins: [rehypePrism],
   },
 })
+
 
 export default withMDX(nextConfig)

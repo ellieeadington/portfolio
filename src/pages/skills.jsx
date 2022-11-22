@@ -23,7 +23,7 @@ const skills = [
   },
   {
     name: 'Javascript',
-    logo: logoJavascript,
+    logo: logoJavaScript,
   },
   {
     name: 'Node.js',

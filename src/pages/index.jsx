@@ -170,12 +170,12 @@ export default function Home({ projects }) {
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
-              href="https://github.com"
+              href="https://github.com/ellieeadington"
               aria-label="Follow on GitHub"
               icon={GitHubIcon}
             />
             <SocialLink
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/ellieeadington/"
               aria-label="Follow on LinkedIn"
               icon={LinkedInIcon}
             />

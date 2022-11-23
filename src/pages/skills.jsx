@@ -11,6 +11,12 @@ import logoMongoDB from '@/images/logos/mongodb.svg'
 import logoPostgreSQL from '@/images/logos/postgresql.svg'
 import logoREST from '@/images/logos/rest.svg'
 import logoDjango from '@/images/logos/django.svg'
+import logoReact from '@/images/logos/react.svg'
+import logoGit from '@/images/logos/git.svg'
+import logoHeroku from '@/images/logos/heroku-icon.svg'
+import logoGoogleDev from '@/images/logos/google-developers-icon.svg'
+import html5 from '@/images/logos/html-5.svg'
+import css3 from '@/images/logos/css-3.svg'
 
 const skills = [
   {
@@ -22,8 +28,8 @@ const skills = [
     logo: logoDjango,
   },
   {
-    name: 'Javascript',
-    logo: logoJavaScript,
+    name: 'JavaScript',
+    logo: logoJavascript,
   },
   {
     name: 'Node.js',
@@ -34,17 +40,42 @@ const skills = [
     logo: logoExpress,
   },
   {
-    name: 'MongoDB',
+    name: 'MongoDB & Mongoose',
     logo: logoMongoDB,
   },
   {
-    name: 'PgAdmin',
+    name: 'PgAdmin & SQL',
     logo: logoPostgreSQL,
   },
   {
     name: 'REST APIs',
     logo: logoREST,
   },
+  {
+    name: 'React',
+    logo: logoReact,
+  },
+  {
+    name: 'Git & Github',
+    logo: logoGit,
+  },
+  {
+    name: 'Google Dev',
+    logo: logoGoogleDev,
+  },
+  {
+    name: 'Heroku',
+    logo: logoHeroku,
+  },
+  {
+    name: 'HTML-5',
+    logo:  html5,
+  },
+  {
+    name: 'CSS',
+    logo: css3,
+  },
+
 
 ]
 
@@ -61,7 +92,7 @@ export default function Projects() {
       </Head>
       <SimpleLayout
         title="Technical Skills"
-        intro="During the intensive GA course I rapidly developed a range of skills, programming languages and frameworks to develop MERN full-stack applications and Django apps with Python. As I am specialising in backend engineering, I have been focusing on building RESTful APIs, authentication & authorization and consuming third-party APIs. My relevant core hard skills include:"
+        intro="During the intensive GA course I rapidly developed a range of skills, programming languages and frameworks to develop MERN full-stack applications and Django apps with Python. My favourite part of the course has been has been programming backend APIs, writing authentication & authorization and consuming third-party APIs. My relevant core hard skills include:"
       >
         <ul
           role="list"

@@ -16,7 +16,6 @@ import ga from '@/images/photos/ga.png'
 import gooutdoors from '@/images/photos/gooutdoors.png'
 import upwork from '@/images/photos/upwork.png'
 import anixter from '@/images/photos/anixter.png'
-
 import { generateRssFeed } from '@/lib/generateRssFeed'
 import { getAllProjects } from '@/lib/getAllProjects'
 import { formatDate } from '@/lib/formatDate'

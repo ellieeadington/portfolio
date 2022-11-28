@@ -75,8 +75,6 @@ const skills = [
     name: 'CSS',
     logo: css3,
   },
-
-
 ]
 
 

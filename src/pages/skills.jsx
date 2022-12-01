@@ -20,14 +20,6 @@ import css3 from '@/images/logos/css-3.svg'
 
 const skills = [
   {
-    name: 'Python',
-    logo: logoPython,
-  },
-  {
-    name: 'Django',
-    logo: logoDjango,
-  },
-  {
     name: 'JavaScript',
     logo: logoJavascript,
   },
@@ -44,11 +36,19 @@ const skills = [
     logo: logoMongoDB,
   },
   {
+    name: 'Python',
+    logo: logoPython,
+  },
+  {
+    name: 'Django',
+    logo: logoDjango,
+  },
+  {
     name: 'PgAdmin & SQL',
     logo: logoPostgreSQL,
   },
   {
-    name: 'REST APIs',
+    name: 'RESTful APIs',
     logo: logoREST,
   },
   {

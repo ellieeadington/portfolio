@@ -162,7 +162,7 @@ export default function Home({ projects }) {
             Ellie Eadington
           </h1>
           <h1 className="text-4xl tracking-tight text-zinc-800 dark:text-zinc-100 xs:text-5xl">
-            Junior Backend Software Engineer
+            Junior Software Engineer
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
            with a background in data analytics, process automation and operations management.
